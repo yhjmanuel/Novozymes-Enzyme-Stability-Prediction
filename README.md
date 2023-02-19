@@ -6,7 +6,7 @@ Scripts:
 "cnn_train.py": How we used CNN-based methods to train a model 
 "pbert_cnn_train.py": How we used ProteinBERT and CNN to train a model. Our final solution.
 "pbert_cnn_inference.py": After training a ProteinBERT+CNN-based model, we used this script to do the inference.
-(In our version, the last two scripts use both device 'cpu' and device 'mps'. You can change the 'mps' device to 'cuda' in the script. This solution will run extremely slow without GPU) 
+(In our version, the last two scripts use both device 'cpu' and device 'mps'. You can change the 'mps' device to 'cuda' in the script. This solution needs GPU) 
 
 After downloading training data, run
 
