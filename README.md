@@ -1,3 +1,5 @@
+Ranking: 14 / 2483
+
 Please find the training data that we used in this project at [https://drive.google.com/drive/folders/1OzALs-Zlo_IEVbTMr0e7MswW83VJCX6q?usp=share_link]
 
 Dependencies are specified in "requirements.txt"
